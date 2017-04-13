@@ -1,2 +1,2 @@
 # star_svm
-Semi-Supervised SVM via Self-Training with Adaptive Regularization (STAR-SVM)
+Self-Training with Adaptive Regularization Support Vector Machine (STAR-SVM)
